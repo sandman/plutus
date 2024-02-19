@@ -1,13 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="http://www.sandip.live"><img src="https://github.com/sandman/plutus/blob/main/public/plutus-finance-banner.png" alt="Plutus" width="200"></a>
+  <a href="http://www.sandip.live"><img src="https://github.com/sandman/plutus/blob/main/public/plutus-finance-banner.png" alt="Plutus" width="400"></a>
   <br>
   Plutus Finance
   <br>
 </h1>
 
 <h4 align="center">A personal financial dashboard to track all your investments</h4>
-
 
 <!---
 <p align="center">
@@ -116,6 +115,19 @@ This software uses the following open source packages:
 - [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
 --->
+
+## Built with
+
+We're using the T3 stack with the following libraries/tools/frameworks:
+
+
+- [Next.js](https://nextjs.org)
+- [Auth0](https://auth0.com)
+- [Prisma](https://prisma.io)
+- [Tailwind CSS](https://tailwindcss.com)
+- [tRPC](https://trpc.io)
+- SQLite3
+
 ## License
 
 MIT
@@ -125,4 +137,3 @@ MIT
 > [sandip.live](https://www.sandip.live) &nbsp;&middot;&nbsp;
 > GitHub [@sandman](https://github.com/sandman) &nbsp;&middot;&nbsp;
 > Twitter [@sandipg](https://twitter.com/sandipg)
->
